@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff7eb3,100:6c5ce7&height=180&section=header&text=Hi%20I'm%20Charaneeshh%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00b4d8,100:0077b6&height=180&section=header&text=Data%20Science%20%26%20DSA%20Explorer%20🚀&fontSize=38&fontColor=ffffff" />
 </p>
+
 
 <!-- Badges -->
 <p align="center">
