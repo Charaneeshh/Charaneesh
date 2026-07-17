@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00b4d8,100:0077b6&height=180&section=header&text=Data%20Science%20%26%20DSA%20Explorer%20🚀&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00eaff&height=150&section=header&text=Data%20Science%20%7C%20DSA%20Learner%20✨&fontSize=36&fontColor=ffffff" />
 </p>
 
 
