@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00b4d8,100:0077b6&height=180&section=header&text=Charaneeshh%20%7C%20Data%20Science%20%26%20DSA%20Learner&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff7eb3,100:6c5ce7&height=180&section=header&text=Hi%20I'm%20Charaneeshh%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 
