@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-- 🎓 10th Standard Student  
+- 🎓 8th Standard Student  
 - 💻 Learning **HTML, CSS, JavaScript, Python, Git & GitHub**  
 - 🎮 Love building small apps, games, and websites  
 - 🚀 Goal: Become a full‑stack developer  
