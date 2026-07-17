@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff7eb3,100:6c5ce7&height=180&section=header&text=Hi%20I'm%20Charaneeshh%20👋&fontSize=40&fontColor=ffffff" />
 </p>
@@ -12,12 +12,12 @@
 
 ---
 
-## 🌈 About Me
+## 🌟 About Me
 
-- 🎓 **10th Standard Student**
-- 💻 Learning **HTML, CSS, JavaScript, Python, Git & GitHub**
-- 🎮 Love building **small apps, games, and websites**
-- 🚀 Dream: **Become a full‑stack developer**
+- 🎓 10th Standard Student  
+- 💻 Learning **HTML, CSS, JavaScript, Python, Git & GitHub**  
+- 🎮 Love building small apps, games, and websites  
+- 🚀 Goal: Become a full‑stack developer  
 
 ---
 
@@ -33,14 +33,12 @@
 
 ---
 
-## 📚 Projects I’m Building
+## 📚 Projects I'm Working On
 
-- 🧮 **Colorful Calculator**
-- ✅ **To‑Do List Web App**
-- 🌐 **My Personal Website**
-- 🎲 **Simple Games (Guess the Number, Rock–Paper–Scissors)**
-
-> I’m still learning—these projects will grow and get better over time.
+- 🧮 Colorful Calculator  
+- 📝 To‑Do List Web App  
+- 🌐 Personal Website  
+- 🎲 Simple Games (Guess the Number, Rock–Paper–Scissors)
 
 ---
 
@@ -52,6 +50,6 @@
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- 🐙 **GitHub:** [Charaneeshh](https://github.com/Charaneeshh)
+- 🐙 GitHub: [Charaneeshh](https://github.com/Charaneeshh)
